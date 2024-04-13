@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Windows Defender and Firewall          | <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Lab</a>|
-| Packet Capture with Wireshark | <a href="https://coursera.org/share/3a010f7397305c37fbe517d28ab84f54">Network Analysis Lab</a>|
+| Packet Capture with Wireshark | <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture & Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -51,5 +51,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Lab</a>
-- Packet Capture with Wireshark Lab
+- <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture & Analysis Lab</a>
 - Test Project
