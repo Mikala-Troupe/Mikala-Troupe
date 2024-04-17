@@ -52,4 +52,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Lab</a>
 - <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture & Analysis Lab</a>
-- Test Project
+- Active Directory Lab
