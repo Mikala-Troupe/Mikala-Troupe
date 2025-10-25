@@ -16,7 +16,7 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 |-----------------------------------------------|----------------------------|
 | Microsoft Windows Defender & Firewall         | <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Lab</a>|
 | Packet Capture & Traffic Analysis (Wireshark) | <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture Lab</a>|
-| Windows Endpoint Security: Scheduled Tasks    | Windows Endpoint Security Lab|
+| Create and Manage Microsoft Entra ID Users in the Portal    | Windows Endpoint Security Lab|
 | Incident Response Playbooks                   | SOC Automation Lab|
 | Case Management (TheHive)                     | SOC Automation Lab|
 | SIEM Log Analysis (Splunk, Sentinel, Elastic) | SOC Monitoring Labs|
