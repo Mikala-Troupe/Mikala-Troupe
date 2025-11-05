@@ -17,11 +17,7 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 | Microsoft Windows Defender & Firewall         | <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Defenders Lab</a>|
 | Packet Capture & Traffic Analysis (Wireshark) | <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture Lab</a>|
 | Create and Manage Users in MSFT Entra ID      | <a href="https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/tree/main">MSFT Entra ID Lab</a>| 
-| Incident Response Playbooks                   | SOC Automation Lab|
-| Case Management (TheHive)                     | SOC Automation Lab|
-| SIEM Log Analysis (Splunk, Sentinel, Elastic) | SOC Monitoring Labs|
-| Active Directory & User Management            | Active Directory Lab|
-| Basic Scripting & Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ---
 
@@ -41,9 +37,7 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 
 ### 🔹 SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### 🔹 Cloud & Systems
