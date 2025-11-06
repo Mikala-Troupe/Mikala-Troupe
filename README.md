@@ -71,4 +71,4 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 - <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture & Analysis Lab</a>  
 - <a href="https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/tree/main">MSFT Entra ID Lab</a>  
 - <a href="https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab/tree/main">Phishing Campaign Lab</a>  
-- Windows Endpoint Security Lab  
+- Work in Progress  
