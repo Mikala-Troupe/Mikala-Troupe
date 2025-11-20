@@ -18,7 +18,7 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 | Packet Capture & Traffic Analysis (Wireshark) | <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture Lab</a>|
 | Create and Manage Users in MSFT Entra ID      | <a href="https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/tree/main">MSFT Entra ID Lab</a>| 
 | Create a Phishing Awareness Campaign          | <a href="https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab/tree/main">Phishing Campaign Lab</a>| 
-
+| SOC Email Analysis & Triage (Phishing Labs)   | <a href="https://github.com/Mikala-Troupe/SOC-Level-1-Labs">SOC Level 1 Labs</a> |           
 
 ---
 
@@ -71,4 +71,5 @@ My goal is to **launch my career in cybersecurity as a Tier 1 SOC Analyst or Cyb
 - <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Packet Capture & Analysis Lab</a>  
 - <a href="https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/tree/main">MSFT Entra ID Lab</a>  
 - <a href="https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab/tree/main">Phishing Campaign Lab</a>  
-- Work in Progress  
+- <a href="https://github.com/Mikala-Troupe/SOC-Level-1-Labs">SOC Level 1 Labs</a>
+ 
