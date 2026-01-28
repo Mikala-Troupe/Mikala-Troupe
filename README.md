@@ -147,7 +147,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 - Strong foundation in security operations and threat analysis
 - 9 industry certifications demonstrating commitment to the field
 - Proven ability to learn quickly and build practical solutions
-- Clear communication skills—I can explain technical concepts to non-technical people
+- Clear communication skills, I can explain technical concepts to non-technical people
 
 **What excites me:**
 - Companies serious about Zero Trust and identity security
@@ -183,5 +183,5 @@ I'm always open to discussing security, career advice, or collaborating on proje
 
 ---
 
-*"I don't just learn security—I build it, break it, document it, and do it again better."*
+*"I don't just learn security, I build it, break it, document it, and do it again better."*
  
