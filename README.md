@@ -126,7 +126,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ### 🛡️ Security Operations & Analysis  
 - **[SOC Level 1 Labs](https://github.com/Mikala-Troupe/SOC-Level-1-Labs)** - Email analysis, phishing detection, IOC extraction
-- **[Wireshark: Analyzing Network Traffic](https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab)** - Network traffic analysis
+- **[Wireshark: Analyzing Network Traffic](https://github.com/Mikala-Troupe/Soc-Level-1-Labs/blob/main/Week-10_Wireshark-Analyzing-Network-Traffic/README.md)** - Network traffic analysis
 - **[Network Analysis with tcpdump](https://github.com/Mikala-Troupe/Soc-Level-1-Labs/tree/main/Week-09_tcpdump-Analyzing-Network-Traffic)** - Command-line packet capture
 
 ### 🔧 Endpoint & Infrastructure
