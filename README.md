@@ -53,7 +53,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 | Just-In-Time Privileged Access (PIM)          | <a href="https://github.com/Mikala-Troupe/IAM-Portfolio/tree/main/Week-03-Privileged-Access-Management">Week 3: JIT Access</a>|
 | SOC Email Analysis & Triage (Phishing)        | <a href="https://github.com/Mikala-Troupe/SOC-Level-1-Labs">SOC Level 1 Labs</a> |
 | Packet Capture & Traffic Analysis (tcpdump)   | <a href="https://github.com/Mikala-Troupe/Soc-Level-1-Labs/tree/main/Week-09_tcpdump-Analyzing-Network-Traffic">tcpdump Lab</a> |        
-| Packet Capture & Traffic Analysis (Wireshark) | <a href="https://github.com/Mikala-Troupe/Packet-Capture-Analysis-Lab/tree/main">Wireshark Lab</a>|
+| Wireshark: Analyzing Network Traffic          | <a href="https://github.com/Mikala-Troupe/Soc-Level-1-Labs/blob/main/Week-10_Wireshark-Analyzing-Network-Traffic/README.md">Wireshark Lab</a>|
 | Microsoft Windows Defender & Firewall         | <a href="https://github.com/Mikala-Troupe/Microsoft-Lab/tree/main">Microsoft Defender Lab</a>|
 | User Management in Microsoft Entra ID         | <a href="https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab/tree/main">Entra ID Lab</a>| 
 | Phishing Awareness Campaign                   | <a href="https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab/tree/main">Phishing Campaign</a>| 
