@@ -7,7 +7,7 @@ I learn by building, every project in my portfolio is something I actually confi
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 **Immediate (2026):**  
 Launch my career as an **IAM Analyst** or **SOC Analyst Tier 1**, where I can apply my skills in identity security, threat detection, and incident response.
@@ -23,7 +23,7 @@ I'm fascinated by how identity is the foundation of modern security, if you can'
 
 ---
 
-## 🔐 Featured Portfolio: Identity & Access Management
+## Featured Portfolio: Identity & Access Management
 
 **[→ View IAM + Security Operations Portfolio](https://github.com/Mikala-Troupe/IAM-Portfolio)**
 
@@ -44,7 +44,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ---
 
-## 🛠️ Skills & Hands-On Labs
+## Skills & Hands-On Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -60,9 +60,9 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
-### 🔹 Identity & Access Management
+### Identity & Access Management
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Privileged_Identity_Management-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -70,21 +70,21 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
     <img src="https://img.shields.io/badge/-Azure_AD-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
 
-### 🔹 Security Operations & Monitoring
+### Security Operations & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Identity_Protection-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### 🔹 Network Analysis
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-696969?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### 🔹 Cloud & Scripting
+### Cloud & Scripting
 <div>
     <img src="https://img.shields.io/badge/-Azure-0072C6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
@@ -92,7 +92,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
     <img src="https://img.shields.io/badge/-Microsoft_Graph_API-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### 🔹 Operating Systems
+### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
@@ -101,7 +101,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -119,26 +119,26 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ---
 
-## 📂 All Projects
+## All Projects
 
-### 🔐 Identity & Access Management
+### Identity & Access Management
 - **[IAM + Security Operations Portfolio](https://github.com/Mikala-Troupe/IAM-Portfolio)** - 12-week progressive lab series (Weeks 1-3 complete)
 
-### 🛡️ Security Operations & Analysis  
+### Security Operations & Analysis  
 - **[SOC Level 1 Labs](https://github.com/Mikala-Troupe/SOC-Level-1-Labs)** - Email analysis, phishing detection, IOC extraction
 - **[Wireshark: Analyzing Network Traffic](https://github.com/Mikala-Troupe/Soc-Level-1-Labs/blob/main/Week-10_Wireshark-Analyzing-Network-Traffic/README.md)** - Network traffic analysis
 - **[Network Analysis with tcpdump](https://github.com/Mikala-Troupe/Soc-Level-1-Labs/tree/main/Week-09_tcpdump-Analyzing-Network-Traffic)** - Command-line packet capture
 
-### 🔧 Endpoint & Infrastructure
+### Endpoint & Infrastructure
 - **[Microsoft Defender Lab](https://github.com/Mikala-Troupe/Microsoft-Lab)** - Endpoint protection and firewall configuration
 - **[Microsoft Entra ID User Management](https://github.com/Mikala-Troupe/Microsoft-Entra-ID-Lab)** - Basic identity management
 
-### 📚 Security Awareness
+### Security Awareness
 - **[Phishing Awareness Campaign](https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab)** - User education and training materials
 
 ---
 
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 **Current Focus:** IAM Analyst or SOC Analyst Tier 1 positions
 
@@ -157,7 +157,7 @@ A 12-week hands-on lab series demonstrating enterprise IAM and security operatio
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 **LinkedIn:** [linkedin.com/in/mikala-troupe](https://www.linkedin.com/in/mikala-troupe)  
 **Email:** troupemikala@gmail.com  
@@ -170,16 +170,16 @@ I'm always open to discussing security, career advice, or collaborating on proje
 ## 📈 Current Status
 
 **Portfolio Progress:**
-- ✅ IAM Weeks 1-3 Complete (User Lifecycle, Security Policies, JIT Access)
-- 🔄 Week 4 In Progress (Access Reviews & Governance)
-- 📅 Weeks 5-12 Planned (PowerShell Automation, SIEM Integration, Threat Hunting)
+- ✅ IAM Weeks 1-4 Complete (User Lifecycle, Security Policies, JIT Access, Access Reviews & Governance)
+- 🔄 Week 5 In Progress 
+- 📅 Weeks 6-12 Planned (PowerShell Automation, SIEM Integration, Threat Hunting)
 
 **Learning Focus:**
 - Deepening IAM expertise (Microsoft Entra ID, PIM, Identity Governance)
 - Building SIEM skills (Splunk, Microsoft Sentinel)
 - Preparing for cloud security certifications (Azure Security Engineer, AWS Security Specialty)
 
-**Job Search Status:** Actively seeking IAM Analyst or SOC Analyst opportunities
+**Job Search Status:** Actively seeking IAM Analyst, SOC Analyst opportunities, or other opportuinites that will allow me grow.
 
 ---
 
